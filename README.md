@@ -79,4 +79,4 @@ Copy code
     .DS_Store
     ```
 
-This streamlined `README.md` provides essential information for setting up and running your projec
+This streamlined `README.md` provides essential information for setting up and running your project
